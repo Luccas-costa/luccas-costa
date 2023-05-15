@@ -95,11 +95,12 @@ todo Mustard
         #tdmaincell {
             display: flex;
             flex-direction: row;
-            padding-left: 57px;
+
         }
 
         #txtmaincell {
-            padding-right: 1px;
+
+            margin: auto;
         }
 
         #olacell {
