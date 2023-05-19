@@ -95,16 +95,10 @@ todo Mustard
         #tdmaincell {
             display: flex;
             flex-direction: row;
-<<<<<<< HEAD
             margin: auto;
-=======
-
->>>>>>> 84029af2652771393c2db499086fe5bafd88d2fa
         }
 
         #txtmaincell {
-            padding-right: 1px;
-
             margin: auto;
         }
 
@@ -703,5 +697,4 @@ todo Mustard
         top: -226px; right: -113px;
     }
 
-}}
 }
